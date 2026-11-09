@@ -14,7 +14,7 @@ This repository hosts the official GitHub Organization profile view, community h
 
 | Path | Description |
 | :--- | :--- |
-| [`.github/profile/README.md`](file:///.github/profile/README.md) | **Flagship Organization Profile** — Displays on the main landing page of [github.com/uos-entrepreneurship](https://github.com/uos-entrepreneurship). |
+| [`profile/README.md`](file:///profile/README.md) | **Flagship Organization Profile** — Displays on the main landing page of [github.com/uos-entrepreneurship](https://github.com/uos-entrepreneurship). |
 | [`.github/CONTRIBUTING.md`](file:///.github/CONTRIBUTING.md) | Standardized contributor guidelines applied across organization repositories. |
 | [`.github/CODE_OF_CONDUCT.md`](file:///.github/CODE_OF_CONDUCT.md) | Community pledge and professional conduct standards. |
 | [`.github/SECURITY.md`](file:///.github/SECURITY.md) | Responsible vulnerability reporting protocol. |
