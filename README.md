@@ -1,36 +1,32 @@
-# 🏛️ University of Sahiwal — GitHub Campus Community Hub
+# 🏛️ UOS Entrepreneurship Society — Organization Hub
 
-Welcome to the central repository and staging ground for establishing the **University of Sahiwal Tech & Entrepreneurship Society** and pursuing accreditation as the campus's first **GitHub Campus Expert**.
+[![Organization](https://img.shields.io/badge/GitHub-uos--entrepreneurship-181717?style=flat&logo=github)](https://github.com/uos-entrepreneurship)
+[![Status](https://img.shields.io/badge/Status-Active%20Hub-success?style=flat)]()
+[![Campus](https://img.shields.io/badge/University-University%20of%20Sahiwal-blue?style=flat)]()
 
----
+Welcome to the central `.github` repository for the **UOS Entrepreneurship Society** at the **University of Sahiwal**.
 
-## 📂 Repository Structure
-
-- [`.github/profile/README.md`](file:///c:/Uni/.github/profile/README.md) — The flagship organization profile page designed to display on your GitHub Organization profile (`github.com/orgs/<your-org>`).
-- [`CAMPUS_EXPERT_PORTFOLIO.md`](file:///c:/Uni/CAMPUS_EXPERT_PORTFOLIO.md) — Comprehensive narrative framework, institutional analysis, metric targets, and essay answers prepared for the official GitHub Campus Expert application.
-- [`WORKSHOP_SERIES_GIT_ZERO_TO_HERO.md`](file:///c:/Uni/WORKSHOP_SERIES_GIT_ZERO_TO_HERO.md) — Ready-to-deliver 2-hour interactive workshop curriculum for student onboarding and first pull request execution.
+This repository hosts the official GitHub Organization profile view, community health standards, governance guidelines, and foundational blueprints for the campus society.
 
 ---
 
-## ⚡ Quick Start: Deploying to GitHub
+## 📂 Repository Contents
 
-To publish this hub to your newly created GitHub organization:
+| Path | Description |
+| :--- | :--- |
+| [`.github/profile/README.md`](file:///.github/profile/README.md) | **Flagship Organization Profile** — Displays on the main landing page of [github.com/uos-entrepreneurship](https://github.com/uos-entrepreneurship). |
+| [`.github/CONTRIBUTING.md`](file:///.github/CONTRIBUTING.md) | Standardized contributor guidelines applied across organization repositories. |
+| [`.github/CODE_OF_CONDUCT.md`](file:///.github/CODE_OF_CONDUCT.md) | Community pledge and professional conduct standards. |
+| [`.github/SECURITY.md`](file:///.github/SECURITY.md) | Responsible vulnerability reporting protocol. |
+| [`CAMPUS_EXPERT_PORTFOLIO.md`](file:///CAMPUS_EXPERT_PORTFOLIO.md) | GitHub Campus Expert application narrative framework and metrics targets. |
+| [`WORKSHOP_SERIES_GIT_ZERO_TO_HERO.md`](file:///WORKSHOP_SERIES_GIT_ZERO_TO_HERO.md) | Full 2-hour interactive workshop curriculum for student onboarding and Git training. |
 
-```bash
-# 1. Initialize Git in this directory (if not already done)
-git init
-git branch -M main
+---
 
-# 2. Stage and commit all society files
-git add .
-git commit -m "feat: initial commit for UoS Tech Society assets"
+## ⚡ Deployment & Maintenance
 
-# 3. Create a public repository named '.github' inside your GitHub Organization
-# Example: https://github.com/uos-tech/.github
+Any updates pushed to `main` in this repository immediately reflect on the public landing page of the organization at `https://github.com/uos-entrepreneurship`.
 
-# 4. Link and push to your organization's .github repo
-git remote add origin https://github.com/<your-org-slug>/.github.git
-git push -u origin main
-```
-
-*(Note: Creating a repository named `.github` in your organization and putting `profile/README.md` inside it activates GitHub's special Organization Profile display feature!)*
+### Organization Links
+- **GitHub Organization:** [https://github.com/uos-entrepreneurship](https://github.com/uos-entrepreneurship)
+- **Primary Contact:** [ashiriftikharofficial@gmail.com](mailto:ashiriftikharofficial@gmail.com)

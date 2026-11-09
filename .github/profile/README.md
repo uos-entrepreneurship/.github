@@ -1,87 +1,152 @@
-# 🏛️ University of Sahiwal — Tech & Entrepreneurship Society
-> **The official student-led innovation, open-source, and developer community at University of Sahiwal.**
+<div align="center">
+
+# 🏛️ UOS ENTREPRENEURSHIP SOCIETY
+### UNIVERSITY OF SAHIWAL
+
+[![Community](https://img.shields.io/badge/Community-Student--Led-0969da?style=for-the-badge&logo=github)](https://github.com/uos-entrepreneurship)
+[![Campus](https://img.shields.io/badge/Campus-University%20of%20Sahiwal-1f883d?style=for-the-badge)](https://github.com/uos-entrepreneurship)
+[![Tagline](https://img.shields.io/badge/Think-Build--Launch-d97706?style=for-the-badge)](https://github.com/uos-entrepreneurship)
+
+<br/>
+
+**ENTREPRENEURSHIP • INNOVATION • TECHNOLOGY**  
+*Think. Build. Launch.*
 
 ---
 
-### 🌐 Welcome to the Hub!
-The **University of Sahiwal Tech & Entrepreneurship Society (UOS Tech)** is dedicated to bridging the gap between theoretical classroom knowledge and real-world tech industry standards. We equip students with modern developer tooling, foster an active open-source culture, and incubate student-led entrepreneurial ventures.
+**A cross-disciplinary, student-led entrepreneurship and innovation community.**  
+Connecting students from all departments with the modern tech, venture, and business ecosystem.
 
-```
-       __  __ ____  ____     _____         _     
-      |  \/  / __ \/ ___|   |_   _|__  ___| |__  
-      | |\/| \ \/ /\___ \     | |/ _ \/ __| '_ \ 
-      | |  | |>  <  ___) |    | |  __/ (__| | | |
-      |_|  |_/_/\_\____/      |_|\___|\___|_| |_|
-            Empowering the Next Generation of Builders
-```
+<br/>
+
+[🎯 Mission](#-our-mission) •
+[🏛️ What We Do](#-what-we-do) •
+[📋 Flagship Programs](#-flagship-programs) •
+[🗺️ Roadmap](#-roadmap-20262027) •
+[🤝 Roles](#-community-roles) •
+[🚀 Get Involved](#-get-involved)
+
+</div>
 
 ---
 
-## 🎯 Our Mission & Pillars
+## 🎯 Our Mission
+
+> *"To empower students across disciplines to develop entrepreneurial mindsets, explore emerging technologies, transform ideas into meaningful ventures, and build the skills and connections needed to create real-world impact."*
+
+---
+
+## 🏛️ What We Do
+
+We believe innovation doesn't belong to a single department. Whether you study **Business Administration**, **Computer Science**, **English**, **Economics**, or **Mathematics**, there is a place for you to build and lead.
+
+| Pillar | Focus | What Members Achieve |
+| :---: | :--- | :--- |
+| 🚀 | **Entrepreneurship** | **Start & Grow Businesses**<br/>Turn raw concepts into validated business models, pitch decks, and viable ventures. |
+| 💡 | **Innovation** | **Solve Problems & Develop Ideas**<br/>Apply design thinking, agile execution, and rapid prototyping to campus and regional challenges. |
+| 🤖 | **Technology** | **Explore AI, Software & Emerging Tech**<br/>Demystify code, version control, AI systems, full-stack tools, and digital product workflows. |
+| 🎤 | **Professional Skills** | **Communication, Sales & Leadership**<br/>Master public speaking, client negotiation, team management, and professional networking. |
+| 🌐 | **Opportunities** | **Connect with the Ecosystem**<br/>Bridge the gap with industry founders, alumni mentors, investor networks, and global programs. |
+
+---
+
+## 📋 Flagship Programs
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ Hands-on Tech & Dev Sprints
+Practical bootcamps taking students from Ground Zero to practical software development. Covers Git, collaborative version control, open source, and building web/AI products.
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 Venture Incubation Tracks
+Structured pathways guiding student teams through ideation, market validation, MVP creation, and commercial launch with founder mentorship.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Intra-University Hackathons
+High-energy, cross-department build marathons where engineers, designers, and business strategists team up to solve problems and demo live in 48 hours.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎙️ Founder Talks & Industry Panels
+Interactive masterclasses with entrepreneurs, freelancers, tech leads, and alumni sharing real-world playbooks on client acquisition, remote careers, and startup growth.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🗺️ Roadmap (2026–2027)
 
 ```mermaid
-flowchart TD
-    A["University of Sahiwal Tech Society"] --> B["1. Open-Source & Dev Tooling"]
-    A --> C["2. Hands-on Engineering"]
-    A --> D["3. Tech Entrepreneurship"]
-    
-    B --> B1["Git & GitHub Masterclasses"]
-    B --> B2["Open Source Contributions"]
-    
-    C --> C1["Full-Stack Web & Mobile Dev"]
-    C --> C2["Cloud, DevOps & Automation"]
-    
-    D --> D1["Freelance & Agency Readiness"]
-    D --> D2["Startup Incubation & Pitching"]
+flowchart LR
+    P1["Phase 1: Foundation\n• Core Recruitment\n• GitHub Org Setup\n• Git Ground Zero Workshop"] --> P2["Phase 2: Skill Sprints\n• 4-Week Build Sprint\n• Open Source PR Drive\n• Pack Verification Hub"]
+    P2 --> P3["Phase 3: Momentum\n• Intra-Campus Hackathon\n• Industry Speaker Series\n• Pitch Prep Bootcamps"]
+    P3 --> P4["Phase 4: Showcase\n• Annual Demo Day\n• Venture Showcase\n• Talent Scout Pipeline"]
 ```
 
-1. **🛠️ Open Source & Developer Tooling**
-   - Demystifying Git, GitHub, CI/CD, and collaborative version control for every department.
-   - Mentoring students to make their first Pull Requests to global open-source projects.
-   - Guiding students through developer benefits and student packs.
-
-2. **💻 Modern Engineering & Applied Tech**
-   - Practical, project-based bootcamps covering modern web technologies, APIs, backend architecture, and AI-assisted workflows.
-   - Team hackathons and peer code reviews simulating agile engineering teams.
-
-3. **🚀 Tech Entrepreneurship & Industry Readiness**
-   - Transforming student side-projects into launchable SaaS products, client solutions, and commercial ventures.
-   - Direct mentorship on freelancing, remote agency operations, and global client acquisition.
+| Phase | Timeline | Focus Area | Core Deliverables |
+| :--- | :--- | :--- | :--- |
+| **Phase 1: Foundation** | Q1 | Community Infrastructure | Launch organization hub, onboard founding team, deliver *Git Zero to Hero* workshop. |
+| **Phase 2: Skill Sprints** | Q2 | Technical & Business Depth | 4-week product sprint, first contribution drive, student developer pack onboarding. |
+| **Phase 3: Momentum** | Q3 | High-Impact Campus Events | Campus-wide Hackathon, venture pitching competition, external industry panels. |
+| **Phase 4: Showcase** | Q4 | Incubation & Demo Day | Student Demo Day, seed showcase for student projects, annual society transition. |
 
 ---
 
-## 📅 Roadmap & Initiatives (2026)
+## 🤝 Community Roles
 
-| Phase | Milestone | Focus Areas |
-| :--- | :--- | :--- |
-| **Q1** | **Foundation & Onboarding** | Launch GitHub Org, Core Team recruitment, "Git & GitHub Zero to Hero" workshop |
-| **Q2** | **Skill Sprints** | 4-week Full Stack project sprint, Open-source contribution drive |
-| **Q3** | **Campus Hackathon** | First annual intra-university hackathon, industry guest speaker sessions |
-| **Q4** | **Incubation & Showcase** | Demo Day for student products, student talent scout exhibition |
+```
+               ┌───────────────────────────────┐
+               │    Executive & Core Leads     │
+               │  Strategy • Events • Tech Ops │
+               └───────────────┬───────────────┘
+                               │
+               ┌───────────────▼───────────────┐
+               │      Project Maintainers      │
+               │ Code Reviews • Repos • Tracks │
+               └───────────────┬───────────────┘
+                               │
+               ┌───────────────▼───────────────┐
+               │      Active Contributors      │
+               │ Workshops • Sprints • Pitches │
+               └───────────────────────────────┘
+```
+
+* **Core Team & Leads:** Drive operations, event execution, partnerships, and society governance.
+* **Project Maintainers:** Oversee organization repositories, review pull requests, and mentor newcomers.
+* **General Members & Fellows:** Attend workshops, collaborate in cross-functional teams, and build public portfolios.
 
 ---
 
-## 🤝 Community Roles & Membership
+## 🚀 Get Involved
 
-- **Learners / Members:** Attend workshops, access curated learning tracks, collaborate on community repos.
-- **Project Maintainers:** Lead open-source repositories under the organization, review PRs, and guide junior peers.
-- **Core Organizing Team:** Coordinate events, logistics, sponsorships, design, and developer relations.
+We follow an open, collaborative standard. Getting involved takes just three steps:
 
----
+1. **⭐ Follow & Star:** Star our repositories to stay updated with codebases, workshop materials, and templates.
+2. **💬 Engage in Discussions:** Connect with fellow students in repository discussions, suggest workshop topics, or pitch an idea.
+3. **🛠️ Make Your First Contribution:** Check out our open issues tagged `good first issue` to start contributing.
 
-## 📌 Getting Involved
-
-1. **Star & Explore Repositories:** Browse our learning resources and project templates below.
-2. **Join Discussions:** Participate in GitHub Discussions or our community groups.
-3. **Contribute:** Pick up an issue labeled `good first issue` on any of our public repositories.
+> 🎓 **Zero Barrier to Entry:**  
+> You don't need prior coding experience or a business degree to join. If you have curiosity and drive, you have a place here.
 
 ---
 
 <div align="center">
 
-**Led with ❤️ by Students at University of Sahiwal**  
-*In pursuit of official GitHub Campus Program & GitHub Campus Expert accreditation.*
+**UOS Entrepreneurship Society**  
+*University of Sahiwal — Sahiwal, Punjab, Pakistan*  
+📧 Contact: [ashiriftikharofficial@gmail.com](mailto:ashiriftikharofficial@gmail.com) • 🌐 Organization: [github.com/uos-entrepreneurship](https://github.com/uos-entrepreneurship)
 
-[Report an Issue](https://github.com) • [Request a Workshop](https://github.com) • [Join Community](https://github.com)
+<sub>Built with passion by students, for students.</sub>
 
 </div>
