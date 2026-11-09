@@ -6,6 +6,7 @@
 [![Community](https://img.shields.io/badge/Community-Student--Led-0969da?style=for-the-badge&logo=github)](https://github.com/uos-entrepreneurship)
 [![Campus](https://img.shields.io/badge/Campus-University%20of%20Sahiwal-1f883d?style=for-the-badge)](https://github.com/uos-entrepreneurship)
 [![Tagline](https://img.shields.io/badge/Think-Build--Launch-d97706?style=for-the-badge)](https://github.com/uos-entrepreneurship)
+[![Web Portal](https://img.shields.io/badge/Web_Portal-Astro_5.4-BC52EE?style=for-the-badge&logo=astro&logoColor=white)](https://github.com/uos-entrepreneurship/website)
 
 <br/>
 
